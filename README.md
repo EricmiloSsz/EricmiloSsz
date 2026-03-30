@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a developer in training focused on game development using Unity, working on both 2D and 3D projects. I have stronger experience with C#, building gameplay mechanics and systems.
+
+Currently, I’m expanding my skills toward backend development, studying Python and databases, aiming to grow as a developer and build more complete solutions.
